@@ -1,0 +1,31 @@
+body {
+background-color:cyan;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-size: 40px;
+}
+h5{
+    background-color:red;
+    border-radius:10px
+}
+.container {
+  display: flex;
+
+  justify-content: space-around;
+}
+button {
+  background-color: slateblue;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+}
+.number-box {
+  width: 30%;
+  border: 2px solid black;
+  background-color: yellow;
+  color: ;
+  text-align: center;
+}
+span{
+    padding:20px
+}
